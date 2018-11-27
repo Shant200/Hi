@@ -1,0 +1,23 @@
+.bubble{
+    color: mediumvioletred;
+    padding-bottom: 1rem;
+    transition: all ease-in-out 3s;
+}
+
+.Make{
+    color: chocolate;
+    padding-top:1rem;
+
+}
+.bubble:hover{
+    background-color: cadetblue;
+    color: lightcoral
+}
+.pop{
+    text-align: center;
+    float: right;
+    font-family: fantasy;
+}
+.nam{
+    background-color: indianred;
+}
